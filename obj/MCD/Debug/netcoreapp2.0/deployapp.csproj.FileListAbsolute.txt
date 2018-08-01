@@ -1,0 +1,11 @@
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\bin\MCD\Debug\netcoreapp2.0\deployapp.deps.json
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\bin\MCD\Debug\netcoreapp2.0\deployapp.runtimeconfig.json
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\bin\MCD\Debug\netcoreapp2.0\deployapp.runtimeconfig.dev.json
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\bin\MCD\Debug\netcoreapp2.0\deployapp.dll
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\bin\MCD\Debug\netcoreapp2.0\deployapp.pdb
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\obj\MCD\Debug\netcoreapp2.0\deployapp.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\obj\MCD\Debug\netcoreapp2.0\deployapp.AssemblyInfoInputs.cache
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\obj\MCD\Debug\netcoreapp2.0\deployapp.AssemblyInfo.cs
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\obj\MCD\Debug\netcoreapp2.0\deployapp.dll
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\obj\MCD\Debug\netcoreapp2.0\deployapp.pdb
+C:\Users\rohit\Desktop\codingdojo_cSharp\deployapp\obj\MCD\Debug\netcoreapp2.0\deployapp.csprojResolveAssemblyReference.cache
